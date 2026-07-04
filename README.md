@@ -1,3 +1,2 @@
 # Portfolio-website
-Personal portfolio website
-soon
+make it on its way
